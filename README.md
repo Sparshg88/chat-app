@@ -1,4 +1,4 @@
-# Real-Time Chat Application 
+# Real-Time Chat Application
 
 This is a simple real-time chat application built using **Node.js**, **Express**, and **WebSocket**. It allows multiple users to communicate in a shared chatroom.
 
@@ -11,8 +11,8 @@ This is a simple real-time chat application built using **Node.js**, **Express**
 ## How to Run the Application
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_link>
-   cd <repository_folder>
+   git clone https://github.com/Sparshg88/chat-app.git
+   cd chat-app
    ```
 
 2. **Install Dependencies**:
@@ -40,7 +40,7 @@ This is a simple real-time chat application built using **Node.js**, **Express**
    - Allows users to input their username and dynamically updates the chat.
 
 ## Deployment
-The application is deployed on Render and accessible via https://chat-app-0dxs.onrender.com.
+The application is deployed on Render and accessible via [https://chat-app-0dxs.onrender.com](https://chat-app-0dxs.onrender.com).
 
 ## Assumptions & Design Choices
 1. Users provide their names at the start; anonymous names are not allowed.
@@ -48,8 +48,7 @@ The application is deployed on Render and accessible via https://chat-app-0dxs.o
 3. A simple text-based UI was chosen to focus on core functionality.
 
 ## How to Access the Application
-1. Visit the deployment link: https://chat-app-0dxs.onrender.com
+1. Visit the deployment link: [https://chat-app-0dxs.onrender.com](https://chat-app-0dxs.onrender.com)
 2. Enter your name to join the chatroom.
 3. Start chatting in real-time!
-
----
+```
